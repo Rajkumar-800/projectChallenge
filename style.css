@@ -1,0 +1,76 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+  .para1{ 
+    background-color:   #f2f2f2;
+ }
+
+.head h1{
+    font-weight: 700;
+}
+.head .search{ 
+    text-align: center;
+}
+.container  .col-lg-6 .paragraph{ 
+font-size: 1.2rem;
+font-family: 'Asap', sans-serif;
+}
+.container .paragraph2{ 
+    font-size: 1.2rem;
+    font-family: 'Asap', sans-serif;
+}
+
+.ls-result {
+    padding: 40px 0;
+}
+.container {
+    max-width: 1340px;
+}
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.empowering-sec .empowering-card {
+    border-radius: 6px;
+    box-shadow: rgb(0 0 0 / 10%) 0 4px 12px;
+    padding: 20px;
+    text-align: center;
+    transition: all .3s;
+    display: flex;
+    align-items: center;
+    border: 1px solid #eee;}
+    
+    .empowering-sec .empowering-card .icon {
+        width: 60px;
+        height: 60px;
+        margin: 0 auto;
+        padding: 9px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+    .empowering-sec .empowering-card .empowering-content {
+        text-align: left;
+    }
+    .ls-result .empowering-card .empowering-content p {
+        margin: 0;
+        padding: 0;
+        line-height: 24px;
+        padding-bottom: 4px!important;
+    }
+    .empowering-sec .empowering-card .empowering-content h3 {
+        font-weight: 700;
+    }
+
+    /* @media (min-width: 768px)
+.col-md-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+} */
